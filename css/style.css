@@ -8885,7 +8885,7 @@ h1, h2, h3, h4, h5,
   overflow: visible; }
 
 .progress-bar {
-  background-color:#ad0f03;
+  background-color:red;
 
   -webkit-box-shadow: none;
   box-shadow: none;
