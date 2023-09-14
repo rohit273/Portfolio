@@ -9684,39 +9684,45 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
-    b{
+    #z{
       font-family: 'Rubik Wet Paint', cursive;
     }
 
-    c{
+    #b{
       font-family: 'Creepster', cursive;  
     }
 
-    d{
+    #c{
       font-family: 'Kablammo', cursive;
     }
-    e{
+    #d{
       font-family: 'Bungee Shade', cursive;
     }
-    f{
+    #e{
       font-family: 'Freehand', cursive;
-
     }
-    g{
+    #f{
       font-family: 'Chokokutai', cursive;
     }
     
-    h{
+    #g{
       font-family: 'Faster One', cursive;
     }
 
-    k{
+    #h{
       font-family: 'Nosifer', cursive;
     }
 
-    j{
+    #i{
       font-family: 'Libre Barcode 39 Text', cursive;
+    }
 
+    h6{
+      font-family: 'Nosifer', cursive;
+    }
+
+    h2{
+    font-family: 'Rye', cursive;
     }
 
   
