@@ -9710,11 +9710,18 @@ textarea.form-control {
     }
 
     #h{
-      font-family: 'Nosifer', cursive;
+      font-family: 'Rubik Lines', cursive;
+      
     }
 
     #i{
-      font-family: 'Libre Barcode 39 Text', cursive;
+      font-family: 'Rubik Marker Hatch', cursive;
+      
+    }
+
+    #j{
+      font-family: 'Rubik Distressed', cursive;
+
     }
 
     h6{
@@ -9732,9 +9739,5 @@ textarea.form-control {
     h4{
         font-family: 'Rye', cursive;
       }
+
     
-
-      
-  
-
-     
